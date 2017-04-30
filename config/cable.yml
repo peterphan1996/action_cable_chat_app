@@ -6,4 +6,4 @@ test:
 
 production:
   adapter: redis
-  url: redis://localhost:6379/1
+  url: redis://redistogo:20b66780d973fedebccde0fb7017be0a@greeneye.redistogo.com:9346/
